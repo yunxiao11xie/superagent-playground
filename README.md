@@ -1,2 +1,2 @@
-# superagent-playground
-Playground for dsh-superagent tickets
+# Superagent-playground
+Playground for dsh-Superagent tickets
